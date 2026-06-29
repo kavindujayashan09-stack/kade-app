@@ -1,0 +1,5 @@
+streamlit
+text-to-speech
+pandas
+opencv-python-headless
+pyzbar
